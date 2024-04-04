@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "sex": "male",
+      "age": 26,
+      "photo": "https://pm1.aminoapps.com/7630/c978ed32e3f995bdb49ab466380b09ed1becf0e5r1-752-1063v2_hq.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "sex": "female",
+      "age": 31,
+      "photo": "https://us.v-cdn.net/6025736/uploads/editor/iq/l3dltejs5mib.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "sex": "male",
+      "age": 35,
+      "photo": "https://klike.net/uploads/posts/2023-04/1680499694_3-93.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "sex": "female",
+      "age": 23,
+      "photo": "https://chillywilly.club/uploads/posts/2023-03/thumbs/1679136290_chillywilly-club-p-eksperimentalnaya-bronya-dzhedaev-art-vokn-77.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "sex": "male",
+      "age": 30,
+      "photo": "https://thelincolnite.co.uk/wp-content/uploads/2015/12/Star-Wars-Jedis.jpg"
+    }
+  ]
+}
